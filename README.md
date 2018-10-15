@@ -3,8 +3,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 # React TypeScript Flux Like
 
 ```
-git clone react-typescript-flux-like
-cd react-typescript-flux-like
+git@github.com:AtaruOhto/react-typescript-flux-like.git
+cd react-typescript-flux-like.git
 yarn
 yarn start
 ```
