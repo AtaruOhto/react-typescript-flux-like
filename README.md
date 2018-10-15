@@ -1,12 +1,10 @@
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
-# React TypeScript Redux Like
-
-## 動作方法
+# React TypeScript Flux Like
 
 ```
-git clone react-typescript-redux-like
-cd react-typescript-redux-like
+git clone react-typescript-flux-like
+cd react-typescript-flux-like
 yarn
 yarn start
 ```
